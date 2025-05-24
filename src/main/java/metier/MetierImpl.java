@@ -7,6 +7,8 @@ public class MetierImpl implements IMetier {
 
     private IDao dao;
 
+
+
     @Override
     public double calcul() {
 
